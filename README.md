@@ -1,9 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sukhrobjon</h1>
+<h3 align="center">I'm frontend developer from Uzbekistan</h3>
 
-<!--
-**Sukhrob242/Sukhrob242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Javascript, Typescript, ReactJs**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/Sukhrob242](https://github.com/Sukhrob242)
 
-- 🌱 I’m currently learning Front-end 
+- 📝 I regularly write articles on [https://www.instagram.com/Sukhrobjon_97](https://www.instagram.com/Sukhrobjon_97)
+
+- 💬 Ask me about **Javascript, ReactJs**
+
+- 📫 How to reach me **sukhrob.toshtemirov@inbox.ru**
+
+- ⚡ Fun fact **I think with my mind, not with my heart.I'm realistic**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sukhrobjon toshtemirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukhrobjon toshtemirov" height="30" width="40" /></a>
+<a href="https://fb.com/suxrobjon toshtemirov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suxrobjon toshtemirov" height="30" width="40" /></a>
+<a href="https://instagram.com/sukhrobjon_97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukhrobjon_97" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhrob242&show_icons=true&locale=en&layout=compact" alt="sukhrob242" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sukhrob242&show_icons=true&locale=en" alt="sukhrob242" /></p>
 

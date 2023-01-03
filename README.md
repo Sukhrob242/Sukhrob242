@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sukhrobjon</h1>
-<h3 align="center">I'm frontend developer from Uzbekistan</h3>
+<h3 align="center">I'm Ios developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript, ReactJs**
+- 🌱 I’m currently learning **Swift , SwiftUI, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sukhrob242](https://github.com/Sukhrob242)
 
 - 📝 I regularly write articles on [https://www.instagram.com/Sukhrobjon_97](https://www.instagram.com/Sukhrobjon_97)
 
-- 💬 Ask me about **Javascript, ReactJs**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **sukhrob.toshtemirov@inbox.ru**
 

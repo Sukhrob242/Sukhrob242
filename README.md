@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukhrobjon</h1>
 <h3 align="center">I'm Ios developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Swift , SwiftUI, Javascript**
+- 🌱 I’m currently learning **Swift , SwiftUI,UiKit,  Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sukhrob242](https://github.com/Sukhrob242)
 

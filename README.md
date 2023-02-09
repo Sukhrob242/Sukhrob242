@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukhrobjon</h1>
-<h3 align="center">I'm Ios developer from Uzbekistan</h3>
+<h3 align="center">I'm Ios & web developer from Uzbekistan</h3>
 
 - 🌱 I’m currently learning **Swift , SwiftUI,UiKit,  Javascript**
 
